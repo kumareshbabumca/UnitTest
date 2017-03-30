@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+ATG-Config-Path: config/
+ATG-Required: DAF.Deployment DAS-UI Publishing.base BIZUI PubPortlet
+ATG-J2EE: j2ee-apps/ProductImport
+ATG-EAR-Module: j2ee-apps/ProductImport
+ATG-Class-Path: bin META-INF/javax.ejb-3.1.2.2.jar
+ATG-Client-Class-Path: META-INF/javax.ejb-3.1.2.2.jar
